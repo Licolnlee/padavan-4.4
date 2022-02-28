@@ -7,7 +7,7 @@
 
 / {
 	compatible = "mediatek,mt7621-soc";
-	model = "JCG Q20";
+	model = "Xiaomi CR660x";
 
 	chosen {
 		bootargs = "console=ttyS0,115200";
